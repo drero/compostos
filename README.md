@@ -1,4 +1,4 @@
-<img src="composto.gif" width="400px" align="center">
+<img src="composto.gif" width="600px" align="center">
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
